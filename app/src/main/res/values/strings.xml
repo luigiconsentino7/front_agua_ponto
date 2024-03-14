@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">projeto_aguaponto</string>
+
+    <string name="nav_text">Olá, [User]</string>
+    <string name="ingerido_ml">1000 ml</string>
+    <string name="ingerir_ml">De 2500 ml</string>
+
+    <string name="hint_peso">Seu Peso (kg)</string>
+    <string name="hint_idade">Sua Idade</string>
+    <string name="text_button_calcular">Calcular ingestão diária</string>
+    <string name="toast_informe_peso">Informe seu peso</string>
+    <string name="toast_informe_idade">Informe sua idade</string>
+</resources>

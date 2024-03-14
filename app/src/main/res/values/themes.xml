@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Projeto_aguaponto" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/darkBlue</item>
+        <item name="colorPrimaryVariant">@color/darkBlue</item>
+    </style>
+
+    <style name="Theme.Projeto_aguaponto" parent="Base.Theme.Projeto_aguaponto" />
+</resources>
