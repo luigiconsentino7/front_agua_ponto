@@ -29,6 +29,7 @@ public class CalcularActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_calcular);
 
+
         IniciarComponentes();
 
         CalcularIngestaoDiaria calcularIngestaoDiaria = new CalcularIngestaoDiaria();
@@ -52,7 +53,7 @@ public class CalcularActivity extends AppCompatActivity {
                     resultadoMl = calcularIngestaoDiaria.ResultadoMl();
                     NumberFormat formatar = NumberFormat.getNumberInstance(new Locale("pt", "BR"));
                     formatar.setGroupingUsed(false);
-                    txt_resultado_ml.setText(formatar.format(resultadoMl) + " ml");
+                    txt_resultado_ml.setText(formatar.format(resultadoMl));
 
                 }
             }

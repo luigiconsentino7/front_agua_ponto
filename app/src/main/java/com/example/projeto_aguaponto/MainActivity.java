@@ -16,9 +16,9 @@ public class MainActivity extends AppCompatActivity {
     //definição das variáveis
     private Button bt_adicionar_agua;
     private AdicionarMl adicionarMl;
-    private TextView txt_resultado_ml_main;
+    private TextView txt_ml_atual;
 
-    private int resultado_ml_atual = 0;
+    private int ml_atual = 0;
     private int adicionar_agua = 300;
 
     @Override
@@ -35,17 +35,17 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) { //metodo que executa uma ação ao clicar no botão
 
-                adicionarMl.Somar(resultado_ml_atual, adicionar_agua);
-                resultado_ml_atual = adicionarMl.ResultadoMlAtual();
+                adicionarMl.Somar(ml_atual, adicionar_agua);
+                ml_atual = adicionarMl.ResultadoMlAtual();
                 NumberFormat formatar = NumberFormat.getNumberInstance(new Locale("pt", "BR"));
                 formatar.setGroupingUsed(false);
-                txt_resultado_ml_main.setText(formatar.format(resultado_ml_atual));
+                txt_ml_atual.setText(formatar.format(ml_atual));
             }
         });
 
     }
     public void IniciarComponentes(){ //criação do metodo de iniciar componentes
         bt_adicionar_agua = findViewById(R.id.bt_add_ingestao);
-        txt_resultado_ml_main = findViewById(R.id.txt_resultado_ml_main);
+        txt_ml_atual = findViewById(R.id.txt_ml_atual);
     }
 }
