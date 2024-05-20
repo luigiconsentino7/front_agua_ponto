@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "aguapontogroup.aguaponto.app-mergeDebugResources-32:/layout/activity_relatorio.xml",
+        "source": "aguapontogroup.aguaponto.app-main-35:/layout/activity_relatorio.xml"
+    },
+    {
+        "merged": "aguapontogroup.aguaponto.app-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "aguapontogroup.aguaponto.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "aguapontogroup.aguaponto.app-mergeDebugResources-32:/layout/activity_trocar_senha.xml",
+        "source": "aguapontogroup.aguaponto.app-main-35:/layout/activity_trocar_senha.xml"
+    },
+    {
+        "merged": "aguapontogroup.aguaponto.app-mergeDebugResources-32:/layout/activity_instrucoes.xml",
+        "source": "aguapontogroup.aguaponto.app-main-35:/layout/activity_instrucoes.xml"
+    },
+    {
+        "merged": "aguapontogroup.aguaponto.app-mergeDebugResources-32:/layout/activity_casdastro.xml",
+        "source": "aguapontogroup.aguaponto.app-main-35:/layout/activity_casdastro.xml"
+    },
+    {
+        "merged": "aguapontogroup.aguaponto.app-mergeDebugResources-32:/layout/definir_agua_ingerida_layout.xml",
+        "source": "aguapontogroup.aguaponto.app-main-35:/layout/definir_agua_ingerida_layout.xml"
+    },
+    {
+        "merged": "aguapontogroup.aguaponto.app-mergeDebugResources-32:/layout/rotina_layout.xml",
+        "source": "aguapontogroup.aguaponto.app-main-35:/layout/rotina_layout.xml"
+    },
+    {
+        "merged": "aguapontogroup.aguaponto.app-mergeDebugResources-32:/layout/activity_login.xml",
+        "source": "aguapontogroup.aguaponto.app-main-35:/layout/activity_login.xml"
+    },
+    {
+        "merged": "aguapontogroup.aguaponto.app-mergeDebugResources-32:/layout/activity_contagem_agua.xml",
+        "source": "aguapontogroup.aguaponto.app-main-35:/layout/activity_contagem_agua.xml"
+    }
+]
