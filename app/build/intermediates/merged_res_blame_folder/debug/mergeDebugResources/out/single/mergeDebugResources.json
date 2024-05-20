@@ -92,6 +92,10 @@
         "source": "aguapontogroup.aguaponto.app-main-35:/drawable/img1.jpg"
     },
     {
+        "merged": "aguapontogroup.aguaponto.app-debug-33:/layout_activity_cadastro.xml.flat",
+        "source": "aguapontogroup.aguaponto.app-main-35:/layout/activity_cadastro.xml"
+    },
+    {
         "merged": "aguapontogroup.aguaponto.app-debug-33:/mipmap-mdpi_ic_launcher.webp.flat",
         "source": "aguapontogroup.aguaponto.app-main-35:/mipmap-mdpi/ic_launcher.webp"
     },
@@ -146,10 +150,6 @@
     {
         "merged": "aguapontogroup.aguaponto.app-debug-33:/drawable_backbutton.png.flat",
         "source": "aguapontogroup.aguaponto.app-main-35:/drawable/backbutton.png"
-    },
-    {
-        "merged": "aguapontogroup.aguaponto.app-debug-33:/layout_activity_casdastro.xml.flat",
-        "source": "aguapontogroup.aguaponto.app-main-35:/layout/activity_casdastro.xml"
     },
     {
         "merged": "aguapontogroup.aguaponto.app-debug-33:/drawable_agua.png.flat",

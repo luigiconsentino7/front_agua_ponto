@@ -15,7 +15,7 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Date;
 
-import aguapontogroup.aguaponto.databinding.ActivityCasdastroBinding;
+import aguapontogroup.aguaponto.databinding.ActivityCadastroBinding;
 import aguapontogroup.aguaponto.model.UsuarioModel;
 import aguapontogroup.aguaponto.model.UsuarioModelToBody;
 import aguapontogroup.aguaponto.retrofitUtils.RetrofitUtil;
@@ -26,7 +26,7 @@ import retrofit2.Response;
 
 public class CadastroActivity extends AppCompatActivity {
 
-    private ActivityCasdastroBinding mainBinding;
+    private ActivityCadastroBinding mainBinding;
     private UsuarioModelToBody usuarioModel;
 
 
@@ -34,7 +34,7 @@ public class CadastroActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        mainBinding = ActivityCasdastroBinding.inflate(getLayoutInflater());
+        mainBinding = ActivityCadastroBinding.inflate(getLayoutInflater());
         setContentView(mainBinding.getRoot());
 
         AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO);

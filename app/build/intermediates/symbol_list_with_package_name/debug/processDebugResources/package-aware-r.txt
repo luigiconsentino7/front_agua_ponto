@@ -3749,7 +3749,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
-layout activity_casdastro
+layout activity_cadastro
 layout activity_contagem_agua
 layout activity_instrucoes
 layout activity_login

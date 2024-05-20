@@ -71,7 +71,7 @@ id textView4
 id textView9
 id titulo
 id voltar
-layout activity_casdastro
+layout activity_cadastro
 layout activity_contagem_agua
 layout activity_instrucoes
 layout activity_login
