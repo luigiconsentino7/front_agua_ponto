@@ -68,6 +68,9 @@ Não é necessário a instalação de nenhuma dependência, pacote ou biblioteca
 ## 📋 Licença/License
 
 ## 🎓 Referências
+
+Aqui estão as referências usadas no projeto.
+
 https://www.youtube.com/watch?v=PFOJo8T4VIk&list=PLizN3WA8HR1zBnD25H2I4T57T8D4RcmWQ  
 https://www.youtube.com/watch?v=b7OoeiG_BzU  
 https://dribbble.com/  
