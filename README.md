@@ -57,22 +57,12 @@ Não há instalação!
 
 ## 💻 Configuração para Desenvolvimento
 
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
-
-Para abrir este projeto você necessita das seguintes ferramentas:
-
--<a href="https://godotengine.org/download">GODOT</a>
-
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
-```
+Não é necessário a instalação de nenhuma dependência, pacote ou biblioteca adicional para o funcionamento correto do app.
 
 ## 🗃 Histórico de lançamentos
 
 * 0.1.0 - 25/05/2024
-    * O primeiro lançamento adequado
+    * Primeiro lançamento
     
 
 ## 📋 Licença/License
