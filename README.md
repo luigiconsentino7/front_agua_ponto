@@ -7,7 +7,7 @@
 # Água Ponto
 ## Tropa do Fura Bloqueio
 
-## Integrantes: [Lucca Gomes Vieira]([URL](https://br.linkedin.com/in/luccagvieira), [Luigi Augusto Bezera Consentino]([URL]([https://www.linkedin.com/in/)](https://br.linkedin.com/in/luigi-consentino-144566265), [Mateus Macedo Batista de Souza](https://www.linkedin.com/in/mateus-macedo97732), [Mateus Sousa Piccinin](https://www.linkedin.com/in/mateusspiccinin).
+## Integrantes: [Lucca Gomes Vieira](https://br.linkedin.com/in/luccagvieira), [Luigi Augusto Bezera Consentino](https://br.linkedin.com/in/luigi-consentino-144566265), [Mateus Macedo Batista de Souza](https://www.linkedin.com/in/mateus-macedo97732), [Mateus Sousa Piccinin](https://www.linkedin.com/in/mateusspiccinin).
 
 ## Professores Orientadores: [Victor Rosetti](https://www.linkedin.com/in/victorbarq/), [Adriano Felix](https://br.linkedin.com/in/adriano-valente-534576135).
 
