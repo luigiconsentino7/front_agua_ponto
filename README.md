@@ -66,3 +66,7 @@ Não é necessário a instalação de nenhuma dependência, pacote ou biblioteca
     
 
 ## 📋 Licença/License
+
+## 🎓 Referências
+
+Aqui estão as referências usadas no projeto.
