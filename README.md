@@ -68,10 +68,12 @@ Não é necessário a instalação de nenhuma dependência, pacote ou biblioteca
 ## 📋 Licença/License
 
 ## 🎓 Referências
-https://www.youtube.com/watch?v=PFOJo8T4VIk&list=PLizN3WA8HR1zBnD25H2I4T57T8D4RcmWQ
-https://www.youtube.com/watch?v=b7OoeiG_BzU
-https://dribbble.com/
-https://www.behance.net/
+https://www.youtube.com/watch?v=PFOJo8T4VIk&list=PLizN3WA8HR1zBnD25H2I4T57T8D4RcmWQ  
+https://www.youtube.com/watch?v=b7OoeiG_BzU  
+https://dribbble.com/  
+https://www.behance.net/  
+
+
 https://www.tuasaude.com/calculadora/consumo-de-agua-diario/
 https://www.unimed.coop.br/viver-bem/saude-em-pauta/a-importancia-da-agua-no-corpo-humano-tire-todas-as-suas-duvidas
 
