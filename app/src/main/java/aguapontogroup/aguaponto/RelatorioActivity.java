@@ -128,72 +128,42 @@ public class RelatorioActivity extends AppCompatActivity {
     private void configurarGrafico() {
         ArrayList<BarEntry> entries = new ArrayList<>();
 
-        SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");
-        dateFormat.setLenient(false);
-
         List<Map<String, Object>> ingestoes = new ArrayList<>();
 
-        for (RotinaModel rotinaModel : todasRotinasDiaria) {
+        // Converter todasRotinasDiaria para uma lista de ingestões
+        todasRotinasDiaria.forEach(rotinaModel -> {
+            ingestoes.add(Map.of(
+                    "ingestao", rotinaModel.getIngestao(),
+                    "mlIngerido", rotinaModel.getMlIngerido()
+            ));
+        });
 
-            Map<String, Object> dados = new HashMap<>();
-            dados.put("ingestao", rotinaModel.getIngestao());
-            dados.put("mlIngerido", rotinaModel.getMlIngerido());
-        }
-
+        // Calcular o consumo de água com base nas ingestões
         List<ConsumoAgua> consumoAgua = ConsumoAgua.calcularConsumoAgua(ingestoes);
 
-        for (ConsumoAgua c : consumoAgua) {
-            Log.d("mayara", "Dia: " + c.getDia() + "\nQuantidade: " + c.getQuantidadeDeAguaDoDia());
+        // Preencher as entradas para o gráfico
+        consumoAgua.forEach(c -> {
             entries.add(new BarEntry(c.getDia(), (float) c.getQuantidadeDeAguaDoDia() / 1000));
-        }
+        });
 
-//        int eixoX = 1;
-//        Date ultimoRotina = null;
-//        int somaQuantiade = 0;
-//        boolean acabouSoComUmDado = true;
-//
-//        for (RotinaModel rotina : todasRotinasDiaria) {
-//            try {
-//                Date dataRotinaAtual = dateFormat.parse(rotina.getIngestao());
-//
-//                if (ultimoRotina == null) {
-//                    ultimoRotina = dataRotinaAtual;
-//                }
-//
-//                if (dataRotinaAtual.equals(ultimoRotina)) {
-//                    somaQuantiade += rotina.getMlIngerido();
-//                } else {
-//                    acabouSoComUmDado = false;
-//                    ultimoRotina = dataRotinaAtual;
-//                    somaQuantiade = 0;
-//                    somaQuantiade += rotina.getMlIngerido();
-//                    entries.add(new BarEntry(eixoX, (float) somaQuantiade /1000));
-//                    eixoX++;
-//                }
-//            } catch (ParseException e) {
-//                throw new RuntimeException(e);
-//            }
-//
-//        }
-//
-//        if (acabouSoComUmDado) {
-//            entries.add(new BarEntry(eixoX, (float) somaQuantiade /1000));
-//        }
-
+        // Configurar o conjunto de dados
         BarDataSet barDataSet = new BarDataSet(entries, "Quantidade de Água Ingerida em Litros");
         barDataSet.setColor(ContextCompat.getColor(this, R.color.ciano));
 
+        // Criar os dados do gráfico
         BarData barData = new BarData(barDataSet);
 
-        // Customize X-axis
+        // Customizar o eixo X
         XAxis xAxis = mainBinding.chart.getXAxis();
         xAxis.setPosition(XAxis.XAxisPosition.BOTTOM);
         xAxis.setGranularity(1f);
         xAxis.setDrawGridLines(false);
 
+        // Configurar os dados no gráfico
         mainBinding.chart.setData(barData);
         mainBinding.chart.setFitBars(true);
 
+        // Atualizar o gráfico
         mainBinding.chart.invalidate();
     }
 }
