@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:2:1-57:12
-INJECTED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:2:1-57:12
-INJECTED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:2:1-57:12
-INJECTED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:2:1-57:12
+ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:2:1-57:12
 MERGED from [androidx.databinding:viewbinding:8.3.0] C:\Users\luigi\.gradle\caches\transforms-3\559b7bd21d39a0c5dcf7ddb944114b68\transformed\viewbinding-8.3.0\AndroidManifest.xml:2:1-7:12
 MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\luigi\.gradle\caches\transforms-3\49e292b57d06e381456926f4d0724630\transformed\MPAndroidChart-v3.1.0\AndroidManifest.xml:2:1-20:12
 MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\luigi\.gradle\caches\transforms-3\8b15637fdc0f15d61acd4bae391cad6e\transformed\circleimageview-3.1.0\AndroidManifest.xml:2:1-11:12
@@ -50,22 +50,22 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.print:print:1.0.0] C:\Users\luigi\.gradle\caches\transforms-3\a92339d64ecf2833eb7874549fa50cb8\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\555cc6d1bb146761eac0d5475c1d1eca\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
 	package
-		INJECTED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:5:5-66
+ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:5:5-66
 	android:name
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:6:5-55:19
-INJECTED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:6:5-55:19
+ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:6:5-55:19
+INJECTED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:6:5-55:19
 MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\luigi\.gradle\caches\transforms-3\8b15637fdc0f15d61acd4bae391cad6e\transformed\circleimageview-3.1.0\AndroidManifest.xml:9:5-20
 MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\luigi\.gradle\caches\transforms-3\8b15637fdc0f15d61acd4bae391cad6e\transformed\circleimageview-3.1.0\AndroidManifest.xml:9:5-20
 MERGED from [io.github.vicmikhailau:MaskedEditText:5.0.1] C:\Users\luigi\.gradle\caches\transforms-3\52a46e5b06dad4a7244b89aca42df666\transformed\MaskedEditText-5.0.1\AndroidManifest.xml:7:5-53
@@ -87,95 +87,95 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\luigi\.gradle\cach
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\luigi\.gradle\caches\transforms-3\64c9a04c4bea85171aa758c0d03b7ff5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\luigi\.gradle\caches\transforms-3\64c9a04c4bea85171aa758c0d03b7ff5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 	android:extractNativeLibs
-		INJECTED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.9.0] C:\Users\luigi\.gradle\caches\transforms-3\6513c5624bd5e66b3434a9661f43f592\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:11:9-41
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:11:9-41
 	android:fullBackupContent
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:9:9-54
 	android:roundIcon
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:12:9-54
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:12:9-54
 	tools:targetApi
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:15:9-29
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:15:9-29
 	android:icon
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:10:9-43
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:10:9-43
 	android:allowBackup
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:7:9-35
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:14:9-47
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:14:9-47
 	android:dataExtractionRules
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:8:9-65
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:8:9-65
 activity#aguapontogroup.aguaponto.RelatorioActivity
-ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:16:9-20:15
+ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:16:9-20:15
 	android:screenOrientation
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:19:13-49
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:19:13-49
 	android:exported
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:18:13-37
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:18:13-37
 	android:name
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:17:13-70
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:17:13-70
 activity#aguapontogroup.aguaponto.TrocarSenhaActivity
-ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:21:9-25:15
+ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:21:9-25:15
 	android:screenOrientation
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:24:13-49
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:24:13-49
 	android:exported
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:23:13-37
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:23:13-37
 	android:name
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:22:13-72
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:22:13-72
 activity#aguapontogroup.aguaponto.ContagemAguaActivity
-ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:26:9-30:15
+ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:26:9-30:15
 	android:screenOrientation
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:29:13-49
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:29:13-49
 	android:exported
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:28:13-37
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:28:13-37
 	android:name
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:27:13-73
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:27:13-73
 activity#aguapontogroup.aguaponto.CadastroActivity
-ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:31:9-35:15
+ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:31:9-35:15
 	android:screenOrientation
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:34:13-49
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:34:13-49
 	android:exported
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:33:13-37
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:33:13-37
 	android:name
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:32:13-69
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:32:13-69
 activity#aguapontogroup.aguaponto.LoginActivity
-ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:36:9-40:15
+ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:36:9-40:15
 	android:screenOrientation
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:39:13-49
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:39:13-49
 	android:exported
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:38:13-37
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:38:13-37
 	android:name
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:37:13-66
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:37:13-66
 activity#aguapontogroup.aguaponto.InstrucoesActivity
-ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:41:9-45:15
+ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:41:9-45:15
 	android:screenOrientation
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:44:13-49
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:44:13-49
 	android:exported
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:43:13-37
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:43:13-37
 	android:name
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:42:13-71
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:42:13-71
 activity#aguapontogroup.aguaponto.MainActivity
-ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:46:9-54:20
+ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:46:9-54:20
 	android:exported
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:48:13-36
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:48:13-36
 	android:name
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:47:13-65
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:47:13-65
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:49:13-53:29
+ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:49:13-53:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:50:17-69
+ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:50:17-69
 	android:name
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:50:25-66
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:50:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:52:17-77
+ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:52:17-77
 	android:name
-		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:52:27-74
+		ADDED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:52:27-74
 uses-sdk
-INJECTED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:8.3.0] C:\Users\luigi\.gradle\caches\transforms-3\559b7bd21d39a0c5dcf7ddb944114b68\transformed\viewbinding-8.3.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.databinding:viewbinding:8.3.0] C:\Users\luigi\.gradle\caches\transforms-3\559b7bd21d39a0c5dcf7ddb944114b68\transformed\viewbinding-8.3.0\AndroidManifest.xml:5:5-44
 MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\luigi\.gradle\caches\transforms-3\49e292b57d06e381456926f4d0724630\transformed\MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
@@ -267,9 +267,9 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\luigi\.gradle\caches\transform
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\555cc6d1bb146761eac0d5475c1d1eca\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\555cc6d1bb146761eac0d5475c1d1eca\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
 	android:targetSdkVersion
-		INJECTED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\luigi\.gradle\caches\transforms-3\b4bc221d103ad9d7262695070eed164b\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luigi\.gradle\caches\transforms-3\3ec9a1abfae9b49bd60edc5fcf10f669\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20

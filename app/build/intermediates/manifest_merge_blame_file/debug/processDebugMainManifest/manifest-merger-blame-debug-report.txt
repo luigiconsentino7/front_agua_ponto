@@ -9,8 +9,8 @@
 9        android:targetSdkVersion="34" />
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:5:5-66
-11-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:5:22-64
+11-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:5:5-66
+11-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:5:22-64
 12
 13    <permission
 13-->[androidx.core:core:1.9.0] C:\Users\luigi\.gradle\caches\transforms-3\6513c5624bd5e66b3434a9661f43f592\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
@@ -24,159 +24,158 @@
 17-->[androidx.core:core:1.9.0] C:\Users\luigi\.gradle\caches\transforms-3\6513c5624bd5e66b3434a9661f43f592\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 18
 19    <application
-19-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:6:5-55:19
+19-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:6:5-55:19
 20        android:allowBackup="true"
-20-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:7:9-35
+20-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:7:9-35
 21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 21-->[androidx.core:core:1.9.0] C:\Users\luigi\.gradle\caches\transforms-3\6513c5624bd5e66b3434a9661f43f592\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 22        android:dataExtractionRules="@xml/data_extraction_rules"
-22-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:8:9-65
+22-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:8:9-65
 23        android:debuggable="true"
 24        android:extractNativeLibs="false"
 25        android:fullBackupContent="@xml/backup_rules"
-25-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:9:9-54
+25-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:9:9-54
 26        android:icon="@mipmap/ic_launcher"
-26-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:10:9-43
+26-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:10:9-43
 27        android:label="@string/app_name"
-27-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:11:9-41
+27-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:11:9-41
 28        android:roundIcon="@mipmap/ic_launcher_round"
-28-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:12:9-54
+28-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:12:9-54
 29        android:supportsRtl="true"
-29-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:13:9-35
-30        android:testOnly="true"
-31        android:theme="@style/Theme.ÁguaPonto" >
-31-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:14:9-47
-32        <activity
-32-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:16:9-20:15
-33            android:name="aguapontogroup.aguaponto.RelatorioActivity"
-33-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:17:13-70
-34            android:exported="false"
-34-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:18:13-37
-35            android:screenOrientation="portrait" />
-35-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:19:13-49
-36        <activity
-36-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:21:9-25:15
-37            android:name="aguapontogroup.aguaponto.TrocarSenhaActivity"
-37-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:22:13-72
-38            android:exported="false"
-38-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:23:13-37
-39            android:screenOrientation="portrait" />
-39-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:24:13-49
-40        <activity
-40-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:26:9-30:15
-41            android:name="aguapontogroup.aguaponto.ContagemAguaActivity"
-41-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:27:13-73
-42            android:exported="false"
-42-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:28:13-37
-43            android:screenOrientation="portrait" />
-43-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:29:13-49
-44        <activity
-44-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:31:9-35:15
-45            android:name="aguapontogroup.aguaponto.CadastroActivity"
-45-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:32:13-69
-46            android:exported="false"
-46-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:33:13-37
-47            android:screenOrientation="portrait" />
-47-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:34:13-49
-48        <activity
-48-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:36:9-40:15
-49            android:name="aguapontogroup.aguaponto.LoginActivity"
-49-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:37:13-66
-50            android:exported="false"
-50-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:38:13-37
-51            android:screenOrientation="portrait" />
-51-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:39:13-49
-52        <activity
-52-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:41:9-45:15
-53            android:name="aguapontogroup.aguaponto.InstrucoesActivity"
-53-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:42:13-71
-54            android:exported="false"
-54-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:43:13-37
-55            android:screenOrientation="portrait" />
-55-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:44:13-49
-56        <activity
-56-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:46:9-54:20
-57            android:name="aguapontogroup.aguaponto.MainActivity"
-57-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:47:13-65
-58            android:exported="true" >
-58-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:48:13-36
-59            <intent-filter>
-59-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:49:13-53:29
-60                <action android:name="android.intent.action.MAIN" />
-60-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:50:17-69
-60-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:50:25-66
-61
-62                <category android:name="android.intent.category.LAUNCHER" />
-62-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:52:17-77
-62-->C:\Users\luigi\OneDrive\Documentos\FECAP\PI241\front_agua_ponto_pi\app\src\main\AndroidManifest.xml:52:27-74
-63            </intent-filter>
-64        </activity>
-65
-66        <provider
-66-->[androidx.emoji2:emoji2:1.2.0] C:\Users\luigi\.gradle\caches\transforms-3\b4bc221d103ad9d7262695070eed164b\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-67            android:name="androidx.startup.InitializationProvider"
-67-->[androidx.emoji2:emoji2:1.2.0] C:\Users\luigi\.gradle\caches\transforms-3\b4bc221d103ad9d7262695070eed164b\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-68            android:authorities="aguapontogroup.aguaponto.androidx-startup"
-68-->[androidx.emoji2:emoji2:1.2.0] C:\Users\luigi\.gradle\caches\transforms-3\b4bc221d103ad9d7262695070eed164b\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-69            android:exported="false" >
-69-->[androidx.emoji2:emoji2:1.2.0] C:\Users\luigi\.gradle\caches\transforms-3\b4bc221d103ad9d7262695070eed164b\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-70            <meta-data
-70-->[androidx.emoji2:emoji2:1.2.0] C:\Users\luigi\.gradle\caches\transforms-3\b4bc221d103ad9d7262695070eed164b\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-71                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-71-->[androidx.emoji2:emoji2:1.2.0] C:\Users\luigi\.gradle\caches\transforms-3\b4bc221d103ad9d7262695070eed164b\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-72                android:value="androidx.startup" />
-72-->[androidx.emoji2:emoji2:1.2.0] C:\Users\luigi\.gradle\caches\transforms-3\b4bc221d103ad9d7262695070eed164b\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
-73            <meta-data
-73-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luigi\.gradle\caches\transforms-3\3ec9a1abfae9b49bd60edc5fcf10f669\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
-74                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-74-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luigi\.gradle\caches\transforms-3\3ec9a1abfae9b49bd60edc5fcf10f669\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
-75                android:value="androidx.startup" />
-75-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luigi\.gradle\caches\transforms-3\3ec9a1abfae9b49bd60edc5fcf10f669\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
-76            <meta-data
-76-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
-77                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-77-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
-78                android:value="androidx.startup" />
-78-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
-79        </provider>
-80
-81        <receiver
-81-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
-82            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-82-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
-83            android:directBootAware="false"
-83-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
-84            android:enabled="true"
-84-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
-85            android:exported="true"
-85-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
-86            android:permission="android.permission.DUMP" >
-86-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
-87            <intent-filter>
-87-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
-88                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-88-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
-88-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
-89            </intent-filter>
-90            <intent-filter>
-90-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
-91                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-91-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
-91-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
-92            </intent-filter>
-93            <intent-filter>
-93-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
-94                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-94-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
-94-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
-95            </intent-filter>
-96            <intent-filter>
-96-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
-97                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-97-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
-97-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
-98            </intent-filter>
-99        </receiver>
-100    </application>
-101
-102</manifest>
+29-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:13:9-35
+30        android:theme="@style/Theme.ÁguaPonto" >
+30-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:14:9-47
+31        <activity
+31-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:16:9-20:15
+32            android:name="aguapontogroup.aguaponto.RelatorioActivity"
+32-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:17:13-70
+33            android:exported="false"
+33-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:18:13-37
+34            android:screenOrientation="portrait" />
+34-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:19:13-49
+35        <activity
+35-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:21:9-25:15
+36            android:name="aguapontogroup.aguaponto.TrocarSenhaActivity"
+36-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:22:13-72
+37            android:exported="false"
+37-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:23:13-37
+38            android:screenOrientation="portrait" />
+38-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:24:13-49
+39        <activity
+39-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:26:9-30:15
+40            android:name="aguapontogroup.aguaponto.ContagemAguaActivity"
+40-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:27:13-73
+41            android:exported="false"
+41-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:28:13-37
+42            android:screenOrientation="portrait" />
+42-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:29:13-49
+43        <activity
+43-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:31:9-35:15
+44            android:name="aguapontogroup.aguaponto.CadastroActivity"
+44-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:32:13-69
+45            android:exported="false"
+45-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:33:13-37
+46            android:screenOrientation="portrait" />
+46-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:34:13-49
+47        <activity
+47-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:36:9-40:15
+48            android:name="aguapontogroup.aguaponto.LoginActivity"
+48-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:37:13-66
+49            android:exported="false"
+49-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:38:13-37
+50            android:screenOrientation="portrait" />
+50-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:39:13-49
+51        <activity
+51-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:41:9-45:15
+52            android:name="aguapontogroup.aguaponto.InstrucoesActivity"
+52-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:42:13-71
+53            android:exported="false"
+53-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:43:13-37
+54            android:screenOrientation="portrait" />
+54-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:44:13-49
+55        <activity
+55-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:46:9-54:20
+56            android:name="aguapontogroup.aguaponto.MainActivity"
+56-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:47:13-65
+57            android:exported="true" >
+57-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:48:13-36
+58            <intent-filter>
+58-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:49:13-53:29
+59                <action android:name="android.intent.action.MAIN" />
+59-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:50:17-69
+59-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:50:25-66
+60
+61                <category android:name="android.intent.category.LAUNCHER" />
+61-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:52:17-77
+61-->C:\Users\luigi\OneDrive\Documentos\FECAP\src\front_agua_ponto\app\src\main\AndroidManifest.xml:52:27-74
+62            </intent-filter>
+63        </activity>
+64
+65        <provider
+65-->[androidx.emoji2:emoji2:1.2.0] C:\Users\luigi\.gradle\caches\transforms-3\b4bc221d103ad9d7262695070eed164b\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+66            android:name="androidx.startup.InitializationProvider"
+66-->[androidx.emoji2:emoji2:1.2.0] C:\Users\luigi\.gradle\caches\transforms-3\b4bc221d103ad9d7262695070eed164b\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+67            android:authorities="aguapontogroup.aguaponto.androidx-startup"
+67-->[androidx.emoji2:emoji2:1.2.0] C:\Users\luigi\.gradle\caches\transforms-3\b4bc221d103ad9d7262695070eed164b\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+68            android:exported="false" >
+68-->[androidx.emoji2:emoji2:1.2.0] C:\Users\luigi\.gradle\caches\transforms-3\b4bc221d103ad9d7262695070eed164b\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+69            <meta-data
+69-->[androidx.emoji2:emoji2:1.2.0] C:\Users\luigi\.gradle\caches\transforms-3\b4bc221d103ad9d7262695070eed164b\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+70                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+70-->[androidx.emoji2:emoji2:1.2.0] C:\Users\luigi\.gradle\caches\transforms-3\b4bc221d103ad9d7262695070eed164b\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+71                android:value="androidx.startup" />
+71-->[androidx.emoji2:emoji2:1.2.0] C:\Users\luigi\.gradle\caches\transforms-3\b4bc221d103ad9d7262695070eed164b\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+72            <meta-data
+72-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luigi\.gradle\caches\transforms-3\3ec9a1abfae9b49bd60edc5fcf10f669\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+73                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+73-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luigi\.gradle\caches\transforms-3\3ec9a1abfae9b49bd60edc5fcf10f669\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+74                android:value="androidx.startup" />
+74-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luigi\.gradle\caches\transforms-3\3ec9a1abfae9b49bd60edc5fcf10f669\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+75            <meta-data
+75-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+76                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+76-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+77                android:value="androidx.startup" />
+77-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+78        </provider>
+79
+80        <receiver
+80-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+81            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+81-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+82            android:directBootAware="false"
+82-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+83            android:enabled="true"
+83-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+84            android:exported="true"
+84-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+85            android:permission="android.permission.DUMP" >
+85-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+86            <intent-filter>
+86-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+87                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+87-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+87-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+88            </intent-filter>
+89            <intent-filter>
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+90                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+90-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+90-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+91            </intent-filter>
+92            <intent-filter>
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+93                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+93-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+93-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+94            </intent-filter>
+95            <intent-filter>
+95-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+96                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+96-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+96-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luigi\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+97            </intent-filter>
+98        </receiver>
+99    </application>
+100
+101</manifest>

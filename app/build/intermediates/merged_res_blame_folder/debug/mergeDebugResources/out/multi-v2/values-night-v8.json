@@ -21,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\luigi\\OneDrive\\Documentos\\FECAP\\PI241\\front_agua_ponto_pi\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "C:\\Users\\luigi\\.gradle\\caches\\transforms-3\\709f9fb0076a87913066d2468486e87f\\transformed\\appcompat-1.6.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11,12,38",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "172,242,326,410,506,608,710,3565",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "237,321,405,501,603,705,799,3649"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\luigi\\OneDrive\\Documentos\\FECAP\\src\\front_agua_ponto\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -37,23 +54,6 @@
                         "endLines": "5",
                         "endColumns": "12",
                         "endOffsets": "167"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\luigi\\.gradle\\caches\\transforms-3\\709f9fb0076a87913066d2468486e87f\\transformed\\appcompat-1.6.1\\res\\values-night-v8\\values-night-v8.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,125,209,293,389,491,593,687",
-                        "endColumns": "69,83,83,95,101,101,93,88",
-                        "endOffsets": "120,204,288,384,486,588,682,771"
-                    },
-                    "to": {
-                        "startLines": "6,7,8,9,10,11,12,38",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "172,242,326,410,506,608,710,3565",
-                        "endColumns": "69,83,83,95,101,101,93,88",
-                        "endOffsets": "237,321,405,501,603,705,799,3649"
                     }
                 }
             ]

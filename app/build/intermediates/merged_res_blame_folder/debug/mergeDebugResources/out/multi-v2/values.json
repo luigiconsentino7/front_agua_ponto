@@ -23,40 +23,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\luigi\\OneDrive\\Documentos\\FECAP\\PI241\\front_agua_ponto_pi\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endColumns": "56",
-                        "endOffsets": "109"
-                    },
-                    "to": {
-                        "startLines": "700",
-                        "startColumns": "4",
-                        "startOffsets": "36913",
-                        "endColumns": "56",
-                        "endOffsets": "36965"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\luigi\\OneDrive\\Documentos\\FECAP\\PI241\\front_agua_ponto_pi\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "17",
-                        "endColumns": "47",
-                        "endOffsets": "60"
-                    },
-                    "to": {
-                        "startLines": "1969",
-                        "startColumns": "4",
-                        "startOffsets": "130385",
-                        "endColumns": "47",
-                        "endOffsets": "130428"
-                    }
-                },
-                {
                     "source": "C:\\Users\\luigi\\.gradle\\caches\\transforms-3\\707f23dfaf4adaf7426e1eb019daf8e6\\transformed\\transition-1.2.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",
@@ -110,23 +76,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\luigi\\OneDrive\\Documentos\\FECAP\\PI241\\front_agua_ponto_pi\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "4,2,5,3",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "143,57,183,100",
-                        "endColumns": "38,41,39,41",
-                        "endOffsets": "177,94,218,137"
-                    },
-                    "to": {
-                        "startLines": "636,641,654,960",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "32479,32837,33769,56479",
-                        "endColumns": "38,41,39,41",
-                        "endOffsets": "32513,32874,33804,56516"
-                    }
-                },
-                {
                     "source": "C:\\Users\\luigi\\.gradle\\caches\\transforms-3\\01edb90cdd05efdd9e4a2264e436abfe\\transformed\\appcompat-resources-1.6.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,18,24,34,50",
@@ -165,6 +114,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\luigi\\OneDrive\\Documentos\\FECAP\\src\\front_agua_ponto\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "56",
+                        "endOffsets": "109"
+                    },
+                    "to": {
+                        "startLines": "700",
+                        "startColumns": "4",
+                        "startOffsets": "36913",
+                        "endColumns": "56",
+                        "endOffsets": "36965"
+                    }
+                },
+                {
                     "source": "C:\\Users\\luigi\\.gradle\\caches\\transforms-3\\51942e413313fa047557beb4d10f0461\\transformed\\fragment-1.3.6\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,10",
@@ -181,6 +147,23 @@
                         "endLines": "1798,1831,1868,11379,11383",
                         "endColumns": "56,64,63,24,24",
                         "endOffsets": "119986,121681,123595,718169,718318"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\luigi\\OneDrive\\Documentos\\FECAP\\src\\front_agua_ponto\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,2,5,3",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "143,57,183,100",
+                        "endColumns": "38,41,39,41",
+                        "endOffsets": "177,94,218,137"
+                    },
+                    "to": {
+                        "startLines": "636,641,654,960",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "32479,32837,33769,56479",
+                        "endColumns": "38,41,39,41",
+                        "endOffsets": "32513,32874,33804,56516"
                     }
                 },
                 {
@@ -239,6 +222,25 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\luigi\\OneDrive\\Documentos\\FECAP\\src\\front_agua_ponto\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "102,331",
+                        "endLines": "5,7",
+                        "endColumns": "12,66",
+                        "endOffsets": "323,393"
+                    },
+                    "to": {
+                        "startLines": "2537,6511",
+                        "startColumns": "4,4",
+                        "startOffsets": "178455,457177",
+                        "endLines": "2540,6511",
+                        "endColumns": "12,65",
+                        "endOffsets": "178567,457238"
+                    }
+                },
+                {
                     "source": "C:\\Users\\luigi\\.gradle\\caches\\transforms-3\\276afedef660c41fdacf73aa3fc26bac\\transformed\\viewpager2-1.0.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -255,25 +257,6 @@
                         "endLines": "13523",
                         "endColumns": "24",
                         "endOffsets": "797393"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\luigi\\OneDrive\\Documentos\\FECAP\\PI241\\front_agua_ponto_pi\\app\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "2,7",
-                        "startColumns": "4,4",
-                        "startOffsets": "102,331",
-                        "endLines": "5,7",
-                        "endColumns": "12,66",
-                        "endOffsets": "323,393"
-                    },
-                    "to": {
-                        "startLines": "2537,6511",
-                        "startColumns": "4,4",
-                        "startOffsets": "178455,457177",
-                        "endLines": "2540,6511",
-                        "endColumns": "12,65",
-                        "endOffsets": "178567,457238"
                     }
                 },
                 {
@@ -348,6 +331,23 @@
                         "startOffsets": "123432",
                         "endColumns": "53",
                         "endOffsets": "123481"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\luigi\\OneDrive\\Documentos\\FECAP\\src\\front_agua_ponto\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "47",
+                        "endOffsets": "60"
+                    },
+                    "to": {
+                        "startLines": "1969",
+                        "startColumns": "4",
+                        "startOffsets": "130385",
+                        "endColumns": "47",
+                        "endOffsets": "130428"
                     }
                 },
                 {
